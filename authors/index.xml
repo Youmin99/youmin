@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Youmin Park</title>
-    <link>https://youmin.github.io/youmin-portfolio/authors/</link>
+    <link>https://youmin.github.io/authors/</link>
     <description>Recent content in Authors on Youmin Park</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; 2021 &lt;a href=&#34;https://www.wangchucheng.com/&#34;&gt;WANG Chucheng&lt;/a&gt; and &lt;a href=&#34;https://www.ruiqima.com/&#34;&gt;MA Ruiqi&lt;/a&gt;
 </copyright>
-    <lastBuildDate>Wed, 31 Mar 2021 13:11:22 +0800</lastBuildDate><atom:link href="https://youmin.github.io/youmin-portfolio/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 31 Mar 2021 13:11:22 +0800</lastBuildDate><atom:link href="https://youmin.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Youmin Park</title>
-      <link>https://youmin.github.io/youmin-portfolio/authors/youmin-park/</link>
+      <link>https://youmin.github.io/authors/youmin-park/</link>
       <pubDate>Wed, 31 Mar 2021 13:11:22 +0800</pubDate>
       
-      <guid>https://youmin.github.io/youmin-portfolio/authors/youmin-park/</guid>
+      <guid>https://youmin.github.io/authors/youmin-park/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Example Author</title>
-      <link>https://youmin.github.io/youmin-portfolio/authors/example-author/</link>
+      <link>https://youmin.github.io/authors/example-author/</link>
       <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://youmin.github.io/youmin-portfolio/authors/example-author/</guid>
+      <guid>https://youmin.github.io/authors/example-author/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo Authors</title>
-      <link>https://youmin.github.io/youmin-portfolio/authors/hugo-authors/</link>
+      <link>https://youmin.github.io/authors/hugo-authors/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://youmin.github.io/youmin-portfolio/authors/hugo-authors/</guid>
+      <guid>https://youmin.github.io/authors/hugo-authors/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Youmin Park</title>
-      <link>https://youmin.github.io/youmin-portfolio/authors/gyeongmin-lee/</link>
+      <link>https://youmin.github.io/authors/gyeongmin-lee/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://youmin.github.io/youmin-portfolio/authors/gyeongmin-lee/</guid>
+      <guid>https://youmin.github.io/authors/gyeongmin-lee/</guid>
       <description>Vestibulum vel arcu Donec interdum justo sed posuere imperdiet. Quisque nec mauris eu erat mattis egestas in vitae nisl. Sed nisl augue, congue sed quam quis, tempor tempus nibh. Pellentesque accumsan in quam a interdum. Morbi iaculis venenatis lacinia. Mauris quis nisl vitae nisi mollis placerat id vel ligula. Integer vitae arcu ac leo iaculis rhoncus id vitae dolor. Fusce quis nisl tincidunt, vulputate dolor quis, mollis massa. Donec congue velit at risus cursus, eu auctor dolor rhoncus.</description>
     </item>
     
