@@ -1,14 +1,14 @@
 ---
-title: Pages
+title: Project
 draft: false
 # Section you want to display
-section: posts
+section: project
 # Pages count
 count: 5
 # Options: card, plain and masonry.
 style: plain
 
-weight: 2
+weight: 3
 widget:
   handler: pages
 

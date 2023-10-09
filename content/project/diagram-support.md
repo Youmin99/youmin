@@ -1,5 +1,5 @@
 ---
-title: Diagram Support
+title: Post
 description:
 toc: true
 authors:
@@ -17,7 +17,8 @@ Eureka supports the rendering of diagrams by using Mermaid.
 
 <!--more-->
 
-
+[post-frontend](https://github.com/Youmin99/post-frontEnd).
+[post-backend](https://github.com/Youmin99/post-backend).
 Please include the Mermaid diagram as below. Every mermaid chart/graph/diagram definition, has to have separate `<div>` tags.
 
 In order to render the HTML code in the Markdown file correctly, please make sure that `markup.goldmark.renderer.unsafe` in `config.yaml` is true.
