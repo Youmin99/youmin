@@ -19,7 +19,7 @@ social:
     url: https://github.com/Youmin99
   - icon: file-invoice
     iconPack: fas
-    url: https://www.linkedin.com/in/youminpark/
+    url: https://docs.google.com/document/d/188F7PPlR5jZiCsB0BXMREI9D2Or0FLOPYhr6u2P9cVg/edit?usp=sharing
 
 weight: 1
 widget:
@@ -47,13 +47,14 @@ widget:
 ---
 
 ## Self Introduction
+ Hi there! My name is youmin. I'm passionate junior software developer, loving to learn new technology and knowledge in these areas and apply my knowledge to solve the real-world problems.  
+ 
+ I’m currently looking for a full-time position.
 
-
-
+I graduated with a diploma in computing science from douglas college in 2023. 
 
 ## Skills  
+- language: JavaScript, C, C++, C# TypeScript, HTML/CSS
+- Backend: SQL, MongoDB, Node.js, MSSQL
+- Other: Git, Docker, React, Express.js, Next.js, Nest.js
 
-Nunc pellentesque vitae:
-- Morbi accumsan nibh efficitur diam molestie, non dignissim diam facilisis.
-- Donec dignissim leo in mollis faucibus.
-- Donec blandit lacus a pellentesque fermentum.
