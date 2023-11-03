@@ -2,7 +2,7 @@
 title: Youmin Park
 draft: false
 role: Full-Stack Developer  ·  Open to Work
-avatar: images/icon.png
+avatar: images/ferrari.png
 bio: Full-Stack Developer with a passion for using technology to address real-world issues.
 # organization:
 #   name: Example Organization
