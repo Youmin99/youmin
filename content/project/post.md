@@ -15,7 +15,7 @@ draft: false
 
 board web that users can create accounts and posts
 <!--more-->
-github link
+## github link
 - [post-frontend](https://github.com/Youmin99/post-frontEnd).
 - [post-backend](https://github.com/Youmin99/post-backend).
 
