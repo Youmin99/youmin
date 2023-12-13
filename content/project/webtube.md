@@ -1,5 +1,5 @@
 ---
-title: webtube
+title: Webtube
 description: board web that users can create accounts and posts
 toc: true
 authors:

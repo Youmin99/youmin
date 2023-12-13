@@ -16,7 +16,7 @@ featuredImage: images/book/book-front.png
 board web that users can create accounts and posts
 
 <!--more-->
-## github link
+## link
 - [Ecommerce-Bookstore](https://github.com/Youmin99/Ecommerce-BookStore).
 
 ## features
